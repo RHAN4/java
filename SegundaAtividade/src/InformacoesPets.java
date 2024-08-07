@@ -1,7 +1,4 @@
-package org.example;
-
 public class InformacoesPets {
-
     private String nome;
     private int idade;
     private String raca;
